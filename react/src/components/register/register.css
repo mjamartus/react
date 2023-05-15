@@ -39,7 +39,7 @@ input:focus {
     outline-color: rgb(32, 177, 255);
 }
 
-.login-btn {
+.reg-btn {
     width: 40%;
     height: 3em;
     background-color: rgb(32, 177, 255);
@@ -52,6 +52,6 @@ input:focus {
     font-weight: bold;
 }
 
-.login-btn:hover {
+.reg-btn:hover {
     transform: scale(1.25);
 }
